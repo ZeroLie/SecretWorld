@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SecretWorld/static/css/main.1d0f93f8.css",
-    "main.js": "/SecretWorld/static/js/main.f7830dc4.js",
+    "main.js": "/SecretWorld/static/js/main.0927d1b2.js",
     "static/js/787.c74d0e55.chunk.js": "/SecretWorld/static/js/787.c74d0e55.chunk.js",
     "index.html": "/SecretWorld/index.html",
     "main.1d0f93f8.css.map": "/SecretWorld/static/css/main.1d0f93f8.css.map",
-    "main.f7830dc4.js.map": "/SecretWorld/static/js/main.f7830dc4.js.map",
+    "main.0927d1b2.js.map": "/SecretWorld/static/js/main.0927d1b2.js.map",
     "787.c74d0e55.chunk.js.map": "/SecretWorld/static/js/787.c74d0e55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0f93f8.css",
-    "static/js/main.f7830dc4.js"
+    "static/js/main.0927d1b2.js"
   ]
 }
